@@ -37,7 +37,7 @@ source venv/bin/activate  # Mac/Linux
 
 # Install dependencies
 pip install -r requirements.txt
-
+;p'
 # Create .env file
 echo OPENAI_API_KEY=your-key-here > .env
 
